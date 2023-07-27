@@ -4,11 +4,12 @@ blinker==1.5
 cffi==1.15.1
 click==8.1.3
 Flask==2.1.3
+Flask-Auth==0.85
 Flask-Bcrypt==1.0.1
+Flask-Migrate==3.1.0 
 Flask-Mail==0.9.1
 Flask-RESTful==0.3.9
 Flask-SQLAlchemy==2.5.1
-Flask-Auth==0.85
 greenlet==1.1.2
 importlib-metadata==4.12.0
 itsdangerous==2.1.2
@@ -16,6 +17,7 @@ Jinja2==3.1.2
 MarkupSafe==2.1.1
 marshmallow==3.17.0
 packaging==21.3
+Pillow==10.0.0
 psycopg-binary==3.0.16
 pycparser==2.21
 PyJWT==2.4.0
