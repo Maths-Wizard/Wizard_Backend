@@ -1,0 +1,3 @@
+LOGOUT_SUCCESS_MESSAGE = "Logout Successful"
+LOGIN_SUCCESS_MESSAGE = "Login Successful"
+USER_CREATED_MESSAGE = "User Created"

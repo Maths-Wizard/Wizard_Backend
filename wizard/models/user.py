@@ -1,6 +1,6 @@
 # The User Model
 
-from wsgi import db
+from wizard import db
 
 
 class User(db.Model):
