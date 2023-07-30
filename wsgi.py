@@ -1,10 +1,8 @@
 import os
 from dotenv import load_dotenv, find_dotenv
-from wizard import create_app
+from wizard import app
 
 load_dotenv(find_dotenv())
-
-app = create_app()
 
 
 if __name__ == '__main__':
